@@ -49,18 +49,6 @@ Key challenges addressed in this project include:
 
 ---
 
-## Installation
-1. Clone this repository:  
-   ```bash
-   git clone <repository-url>
-   ```
-2. Install the required Python packages:  
-   ```bash
-   pip install -r requirements.txt
-   ```
-
----
-
 ## Usage
 Run the Jupyter Notebook `Workplace.ipynb` to execute the analysis and modeling. Ensure that the necessary datasets are present in the specified directories.
 
